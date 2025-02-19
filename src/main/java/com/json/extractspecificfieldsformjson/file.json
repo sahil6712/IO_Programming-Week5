@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Sahil Khaimariya",
+    "email": "sahil.khaimariya@example.com",
+    "address": {
+      "street": "123 Game Dev Lane",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560001"
+    },
+    "department": "Game Development"
+  },
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "address": {
+      "street": "456 Code Street",
+      "city": "San Francisco",
+      "state": "California",
+      "zip": "94105"
+    },
+    "department": "Software Engineering"
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "address": {
+      "street": "789 AI Avenue",
+      "city": "New York",
+      "state": "New York",
+      "zip": "10001"
+    },
+    "department": "Artificial Intelligence"
+  }
+]
