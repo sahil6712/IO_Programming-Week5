@@ -1,0 +1,24 @@
+{
+    "report_title": "Employee Report",
+    "data": [
+        {
+            "role": "Developer",
+            "name": "Alice",
+            "id": 1,
+            "age": 25
+        },
+        {
+            "role": "Manager",
+            "name": "Bob",
+            "id": 2,
+            "age": 30
+        },
+        {
+            "role": "Designer",
+            "name": "Charlie",
+            "id": 3,
+            "age": 28
+        }
+    ],
+    "total_records": 3
+}
